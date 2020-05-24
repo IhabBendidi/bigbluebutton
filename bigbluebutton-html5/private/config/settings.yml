@@ -7,12 +7,12 @@ public:
     listenOnlyMode: true
     forceListenOnly: false
     skipCheck: false
-    clientTitle: BigBlueButton
-    appName: BigBlueButton HTML5 Client
+    clientTitle: AlQalam
+    appName: Al Qalam Live Classroom
     bbbServerVersion: 2.2
-    copyright: "©2019 BigBlueButton Inc."
+    copyright: "©2020 Al Qalam."
     html5ClientBuild: HTML5_CLIENT_VERSION
-    helpLink: https://bigbluebutton.org/html5/
+    helpLink: www.alqalam.com
     lockOnJoin: true
     cdn: ""
     basename: "/html5client"
